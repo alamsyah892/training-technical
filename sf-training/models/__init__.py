@@ -2,5 +2,5 @@
 
 # from . import models
 
-from . import planing_role
+from . import planning_role
 from . import planing_slot

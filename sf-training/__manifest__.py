@@ -12,7 +12,7 @@
     ],
     "data" : [
         "security/ir.model.access.csv",
-        "views/planing_role_view.xml",
+        "views/planning_role_view.xml",
     ],
     "auto_install" : False, 
     "installable" : True,
