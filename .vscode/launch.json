@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Training Odoo",
+            "type": "python",
+            "request": "launch",
+            "stopOnEntry": false,
+            "console": "integratedTerminal",
+            "python": "D:\\TRAINING_ODOO\\training\\Scripts\\python",
+            "program": "D:\\Odoo17\\server\\odoo-bin",
+            "args": [
+                "--config=D:\\TRAINING_ODOO\\training.conf",
+                "--dev=xml",
+            ],
+        }
+    ]
+}
