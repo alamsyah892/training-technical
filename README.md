@@ -1,0 +1,2 @@
+# training-technical
+training odoo
